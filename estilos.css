@@ -43,3 +43,15 @@ main {
 .descripcion p {
   margin-bottom: 0;
 }
+
+.descripcion2 {
+  background-color: #ADFAF1;
+  padding: 100px;
+}
+
+.descripcion2 h2 {
+  margin-top: 1;
+}
+
+.descripcion2 p {
+  margin-bottom: 1;
