@@ -1,0 +1,34 @@
+<html>
+  <head>
+    <title>Lugares Naturales</title>
+    <link rel="stylesheet" href="estilos.css">
+  </head>
+  <body>
+    <header>
+      <h1>Lugares Naturales</h1>
+    </header>
+    <main>
+      <div class="foto">
+        <img src="https://www.momondo.mx/discover/wp-content/uploads/sites/262/2017/10/86c264e7-5517-3de5-ac09-79531af1f0c3.jpg" alt="Lugar Natural 1">
+        <div class="descripcion">
+          <h2>Coyote Buttes (“La Ola”) – Arizona, EUA</h2>
+          <p>Originadas en la era Jurásica, las capas de tonos de ocre y ámbar se estratifican unas sobre otras creando fondos ondulantes. Este paisaje es el sueño materializado de fotógrafos y senderistas.</p>
+        </div>
+      </div>
+      <div class="foto">
+        <img src="https://i0.wp.com/blog.vivaaerobus.com/wp-content/uploads/2020/04/paisaje-canon-del-sumidero.jpg?w=650&ssl=1" alt="Lugar Natural 2">
+        <div class="descripcion">
+          <h2>Cañón del Sumidero - Chiapas, Mexico</h2>
+          <p>Lo más notable es que gracias a un colosal movimiento geológico abrió uno de los paisajes de México con abismos de más de 1,300 metros. Sin duda, debes visitar el Parque Nacional Cañón del Sumidero para ver una obra de arte natural.</p>
+        </div>
+      </div>
+      <div class="foto">
+        <img src="https://www.momondo.mx/discover/wp-content/uploads/sites/262/2017/10/54fc19fa-3f2b-3908-8fac-aaec79bdb602.jpg" alt="Lugar Natural 3">
+        <div class="descripcion">
+          <h2>Parque Nacional de Zhangjiajie – Hunan, China</h2>
+          <p>Llénate de asombro en el Puente de Cristal del Gran Cañón de Zhangjiaji, el puente de cristal más alto y largo del mundo. Puedes estar seguro que pondrá a prueba tu miedo a las alturas.</p>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>
